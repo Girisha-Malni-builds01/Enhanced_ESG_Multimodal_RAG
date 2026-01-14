@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+transformers
+sentence-transformers
+faiss-cpu
+pypdf
+pillow
+pytesseract
+gradio
+requests
